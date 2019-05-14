@@ -11,7 +11,6 @@ import uk.ac.cam.group18.WeatherApp.ui.home.HomeController;
 import uk.ac.cam.group18.WeatherApp.ui.hourly.HourlyController;
 import uk.ac.cam.group18.WeatherApp.ui.settings.SettingsController;
 
-import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
