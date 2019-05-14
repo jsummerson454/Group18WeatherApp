@@ -34,16 +34,16 @@ public class Main extends Application {
         application = this;
         window = primaryStage;
 
-        Parent homeRoot = FXMLLoader.load(getClass().getResource("home/home.fxml"));
+        Parent homeRoot = FXMLLoader.load(getClass().getResource("ui/home/home.fxml"));
         home = new Scene(homeRoot, 360, 640);
 
-        Parent dailyRoot = FXMLLoader.load(getClass().getResource("daily/daily.fxml"));
+        Parent dailyRoot = FXMLLoader.load(getClass().getResource("ui/daily/daily.fxml"));
         daily = new Scene(dailyRoot, 360, 640);
 
-        Parent hourlyRoot = FXMLLoader.load(getClass().getResource("hourly/hourly.fxml"));
+        Parent hourlyRoot = FXMLLoader.load(getClass().getResource("ui/hourly/hourly.fxml"));
         hourly = new Scene(hourlyRoot, 360, 640);
 
-        Parent settingsRoot = FXMLLoader.load(getClass().getResource("settings/settings.fxml"));
+        Parent settingsRoot = FXMLLoader.load(getClass().getResource("ui/settings/settings.fxml"));
         settings = new Scene(settingsRoot, 360, 640);
 
         window.setTitle("Weather App");

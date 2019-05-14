@@ -8,7 +8,7 @@
 
 <AnchorPane xmlns="http://javafx.com/javafx"
             xmlns:fx="http://javafx.com/fxml"
-            fx:controller="uk.ac.cam.group18.WeatherApp.settings.SettingsController"
+            fx:controller="uk.ac.cam.group18.WeatherApp.ui.settings.SettingsController"
             prefHeight="400.0" prefWidth="600.0">
 
 </AnchorPane>

@@ -6,7 +6,7 @@
 <?import javafx.scene.text.Font?>
 
 
-<Pane prefHeight="640.0" prefWidth="360.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="uk.ac.cam.group18.WeatherApp.hourly.HourlyController">
+<Pane prefHeight="640.0" prefWidth="360.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="uk.ac.cam.group18.WeatherApp.ui.hourly.HourlyController">
    <children>
       <Label layoutX="61.0" layoutY="43.0" text="HOURLY">
          <font>

@@ -1,4 +1,4 @@
-package uk.ac.cam.group18.WeatherApp.home;
+package uk.ac.cam.group18.WeatherApp.ui.home;
 
 import javafx.event.ActionEvent;
 import uk.ac.cam.group18.WeatherApp.Main;
